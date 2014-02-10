@@ -18,3 +18,8 @@ Sources
 =====
 
 I used wikipedia and Nick's whiteboard example as major sources, and Joel was a huge help in explaining the whole concept to me.
+
+License
+===
+
+[MIT License](http://elliotec.mit-license.org/)
